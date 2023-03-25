@@ -1,0 +1,7 @@
+.venv/
+*.align
+*.mpg
+*.pt
+*.gif
+*.mp4
+logs/*.txt
